@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Projekat"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\Programiranje\;CMake Files\..\..\..\Programiranje\C++\;CMake Files\..\..\..\Programiranje\C++\OpenCV\;CMake Files\..\..\..\Programiranje\C++\OpenCV\opencv\;CMake Files\..\..\..\Programiranje\C++\OpenCV\opencv\build\;CMake Files\..\..\..\Programiranje\C++\OpenCV\opencv\build\x64\;CMake Files\..\..\..\Programiranje\C++\OpenCV\opencv\build\x64\vc15\;CMake Files\..\..\..\Programiranje\C++\OpenCV\opencv\build\x64\vc15\lib\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Caslav/Fakultet/AOR2 - Arhitektura i organizacija racunara 2/Projekat/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;D:\Caslav\Fakultet\AOR2 - Arhitektura i organizacija racunara 2\Projekat\cmake-build-debug\Makefile&quot; VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;D:\Caslav\Fakultet\AOR2 - Arhitektura i organizacija racunara 2\Projekat\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;D:\Caslav\Fakultet\AOR2 - Arhitektura i organizacija racunara 2\Projekat\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;D:\Caslav\Fakultet\AOR2 - Arhitektura i organizacija racunara 2\Projekat\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Projekat">
+				<Option output="D:/Caslav/Fakultet/AOR2 - Arhitektura i organizacija racunara 2/Projekat/cmake-build-debug/Projekat.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Caslav/Fakultet/AOR2 - Arhitektura i organizacija racunara 2/Projekat/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/Caslav/Programiranje/C++/OpenCV/opencv/build/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;D:\Caslav\Fakultet\AOR2 - Arhitektura i organizacija racunara 2\Projekat\cmake-build-debug\Makefile&quot; VERBOSE=1 Projekat"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;D:\Caslav\Fakultet\AOR2 - Arhitektura i organizacija racunara 2\Projekat\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;D:\Caslav\Fakultet\AOR2 - Arhitektura i organizacija racunara 2\Projekat\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;D:\Caslav\Fakultet\AOR2 - Arhitektura i organizacija racunara 2\Projekat\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Projekat/fast">
+				<Option output="D:/Caslav/Fakultet/AOR2 - Arhitektura i organizacija racunara 2/Projekat/cmake-build-debug/Projekat.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Caslav/Fakultet/AOR2 - Arhitektura i organizacija racunara 2/Projekat/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/Caslav/Programiranje/C++/OpenCV/opencv/build/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;D:\Caslav\Fakultet\AOR2 - Arhitektura i organizacija racunara 2\Projekat\cmake-build-debug\Makefile&quot; VERBOSE=1 Projekat/fast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;D:\Caslav\Fakultet\AOR2 - Arhitektura i organizacija racunara 2\Projekat\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;D:\Caslav\Fakultet\AOR2 - Arhitektura i organizacija racunara 2\Projekat\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;D:\Caslav\Fakultet\AOR2 - Arhitektura i organizacija racunara 2\Projekat\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Caslav/Fakultet/AOR2 - Arhitektura i organizacija racunara 2/Projekat/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;D:\Caslav\Fakultet\AOR2 - Arhitektura i organizacija racunara 2\Projekat\cmake-build-debug\Makefile&quot; VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;D:\Caslav\Fakultet\AOR2 - Arhitektura i organizacija racunara 2\Projekat\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;D:\Caslav\Fakultet\AOR2 - Arhitektura i organizacija racunara 2\Projekat\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;D:\Caslav\Fakultet\AOR2 - Arhitektura i organizacija racunara 2\Projekat\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Caslav/Fakultet/AOR2 - Arhitektura i organizacija racunara 2/Projekat/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;D:\Caslav\Fakultet\AOR2 - Arhitektura i organizacija racunara 2\Projekat\cmake-build-debug\Makefile&quot; VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;D:\Caslav\Fakultet\AOR2 - Arhitektura i organizacija racunara 2\Projekat\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;D:\Caslav\Fakultet\AOR2 - Arhitektura i organizacija racunara 2\Projekat\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;D:\Caslav\Fakultet\AOR2 - Arhitektura i organizacija racunara 2\Projekat\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Caslav/Fakultet/AOR2 - Arhitektura i organizacija racunara 2/Projekat/main.cpp">
+			<Option target="Projekat"/>
+		</Unit>
+		<Unit filename="D:/Caslav/Fakultet/AOR2 - Arhitektura i organizacija racunara 2/Projekat/source/Image_Processor.cpp">
+			<Option target="Projekat"/>
+		</Unit>
+		<Unit filename="D:/Caslav/Fakultet/AOR2 - Arhitektura i organizacija racunara 2/Projekat/source/Image_Processor_Not_Optimised.cpp">
+			<Option target="Projekat"/>
+		</Unit>
+		<Unit filename="D:/Caslav/Fakultet/AOR2 - Arhitektura i organizacija racunara 2/Projekat/source/Image_Processor_Optimised.cpp">
+			<Option target="Projekat"/>
+		</Unit>
+		<Unit filename="D:/Caslav/Fakultet/AOR2 - Arhitektura i organizacija racunara 2/Projekat/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/Caslav/Fakultet/AOR2 - Arhitektura i organizacija racunara 2/Projekat/../../../Programiranje/C++/OpenCV/opencv/build/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Programiranje\C++\OpenCV\opencv\build\"/>
+		</Unit>
+		<Unit filename="D:/Caslav/Fakultet/AOR2 - Arhitektura i organizacija racunara 2/Projekat/../../../Programiranje/C++/OpenCV/opencv/build/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Programiranje\C++\OpenCV\opencv\build\"/>
+		</Unit>
+		<Unit filename="D:/Caslav/Fakultet/AOR2 - Arhitektura i organizacija racunara 2/Projekat/../../../Programiranje/C++/OpenCV/opencv/build/x64/vc15/lib/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Programiranje\C++\OpenCV\opencv\build\x64\vc15\lib\"/>
+		</Unit>
+		<Unit filename="D:/Caslav/Fakultet/AOR2 - Arhitektura i organizacija racunara 2/Projekat/../../../Programiranje/C++/OpenCV/opencv/build/x64/vc15/lib/OpenCVModules-debug.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Programiranje\C++\OpenCV\opencv\build\x64\vc15\lib\"/>
+		</Unit>
+		<Unit filename="D:/Caslav/Fakultet/AOR2 - Arhitektura i organizacija racunara 2/Projekat/../../../Programiranje/C++/OpenCV/opencv/build/x64/vc15/lib/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Programiranje\C++\OpenCV\opencv\build\x64\vc15\lib\"/>
+		</Unit>
+		<Unit filename="D:/Caslav/Fakultet/AOR2 - Arhitektura i organizacija racunara 2/Projekat/../../../Programiranje/C++/OpenCV/opencv/build/x64/vc15/lib/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Programiranje\C++\OpenCV\opencv\build\x64\vc15\lib\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

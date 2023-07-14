@@ -1,0 +1,3 @@
+D:/Caslav/Fakultet/AOR2 - Arhitektura i organizacija racunara 2/Projekat/cmake-build-debug/CMakeFiles/Projekat.dir
+D:/Caslav/Fakultet/AOR2 - Arhitektura i organizacija racunara 2/Projekat/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Caslav/Fakultet/AOR2 - Arhitektura i organizacija racunara 2/Projekat/cmake-build-debug/CMakeFiles/rebuild_cache.dir

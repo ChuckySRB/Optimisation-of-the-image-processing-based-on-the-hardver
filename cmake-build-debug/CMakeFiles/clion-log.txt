@@ -1,0 +1,22 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - NMake Makefiles" "D:\Caslav\Fakultet\AOR2 - Arhitektura i organizacija racunara 2\Projekat"
+-- The C compiler identification is MSVC 19.28.29334.0
+-- The CXX compiler identification is MSVC 19.28.29334.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx86/x64/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx86/x64/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- OpenCV ARCH: x64
+-- OpenCV RUNTIME: vc15
+-- OpenCV STATIC: OFF
+-- Found OpenCV: D:/Caslav/Programiranje/C++/OpenCV/opencv/build (found version "4.6.0") 
+-- Found OpenCV 4.6.0 in D:/Caslav/Programiranje/C++/OpenCV/opencv/build/x64/vc15/lib
+-- You might need to add D:\Caslav\Programiranje\C++\OpenCV\opencv\build\x64\vc15\bin to your PATH to be able to run your applications.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Caslav/Fakultet/AOR2 - Arhitektura i organizacija racunara 2/Projekat/cmake-build-debug
